@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 export default {
     primary:'#F89C2F',
     secondary:'purple',
